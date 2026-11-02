@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+  <!-- Placeholder portrait: replace with your own photo (e.g. assets/profile.jpg) -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b3001b"/>
+      <stop offset="1" stop-color="#3a0008"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" fill="url(#g)"/>
+  <circle cx="240" cy="230" r="92" fill="#eaeaea" opacity="0.9"/>
+  <path d="M60 600c0-110 80-190 180-190s180 80 180 190z" fill="#eaeaea" opacity="0.9"/>
+</svg>
